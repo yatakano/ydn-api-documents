@@ -16,9 +16,9 @@ If registered as template: The maximum of setting definition is 30.<br>
 If not registered as template: There is no limit in setting definition.<br>
 <br>
 [Notes]<br>
-Report definition can be confirmed only by the same authentic method when report definition is created.<br>
-- When created by normal authentication: Cannot confirm by on behalf of access.<br>
-- When created by on behalf of access: Cannot confirm by normal authentication.<br>
+Report definition can be confirmed only by the API Account ID which created the report definition.<br>
+Definitions created by same API Account ID can be confirmed regardless of authentication method.<br>
+<br>
 
 #### Operation
 Describes operations provided by ReportDefinitionService.
