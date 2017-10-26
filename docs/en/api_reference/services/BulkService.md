@@ -66,7 +66,7 @@ Offers a bulk download function that uses bulk sheets.
         <ns1:accountId>1000000001</ns1:accountId>
         <ns1:campaignIds>2000000001</ns1:campaignIds>
         <ns1:adGroupIds>3000000001</ns1:adGroupIds>
-        <ns1:downloadType>REVIEW_AD</ns1:downloadType>
+        <ns1:downloadType>CAMPAIGN</ns1:downloadType>
         <ns1:dateRange>
           <ns1:startDate>20120303</ns1:startDate>
           <ns1:endDate>20120402</ns1:endDate>
@@ -298,7 +298,7 @@ Defines URL for upload target.
         <ns1:accountId>1000000001</ns1:accountId>
         <ns1:campaignIds>2000000001</ns1:campaignIds>
         <ns1:adGroupIds>3000000001</ns1:adGroupIds>
-        <ns1:downloadType>REVIEW_AD</ns1:downloadType>
+        <ns1:downloadType>CAMPAIGN</ns1:downloadType>
         <ns1:dateRange>
           <ns1:startDate>20120303</ns1:startDate>
           <ns1:endDate>20120402</ns1:endDate>
@@ -391,7 +391,7 @@ Acquires upload status.
         <ns1:accountId>1000000001</ns1:accountId>
         <ns1:campaignIds>2000000001</ns1:campaignIds>
         <ns1:adGroupIds>3000000001</ns1:adGroupIds>
-        <ns1:downloadType>REVIEW_AD</ns1:downloadType>
+        <ns1:downloadType>CAMPAIGN</ns1:downloadType>
         <ns1:dateRange>
           <ns1:startDate>20120303</ns1:startDate>
           <ns1:endDate>20120402</ns1:endDate>
