@@ -78,7 +78,7 @@ http://im.yahooapis.jp/V6
         <ns1:downloadBulkJob>
           <ns1:downloadBulkJobName>サンプルバルクジョブ1</ns1:downloadBulkJobName>
         </ns1:downloadBulkJob>
-        <ns1:downloadType>REVIEW_AD</ns1:downloadType>
+        <ns1:downloadType>CAMPAIGN</ns1:downloadType>
         <ns1:lang>JA</ns1:lang>
         <ns1:output>ZIPPED_CSV</ns1:output>
         <ns1:encoding>UTF-8</ns1:encoding>
@@ -392,7 +392,7 @@ http://im.yahooapis.jp/V6
                 <ns1:accountId>1111111111</ns1:accountId>
                 <ns1:uploadBulkJobIds>2222222222</ns1:uploadBulkJobIds>
                 <ns1:uploadBulkJobStatus>IN_PROGRESS</ns1:uploadBulkJobStatus>
-                <ns1:output>ZIPPED_XML</ns1:output>
+                <ns1:output>ZIPPED_CSV</ns1:output>
                 <ns1:encoding>UTF-8</ns1:encoding>
                 <ns1:paging>
                   <ns1:startIndex>1</ns1:startIndex>

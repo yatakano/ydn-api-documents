@@ -1,6 +1,6 @@
 # AdType (enum)
 AdType describes the type of ad.<br>
-In addition, the number of available characters of ad vreatives vary with selected devices.
+In addition, the number of available characters of ad creatives vary with selected devices.
 
 ### Service
 + [AdGroupAdService](../services/AdGroupAdService.md)
